@@ -6,5 +6,3 @@ while True:
 	price = input('請輸入價錢')
 	products.append([name, price])
 print(products)
-
-products[0][0]
